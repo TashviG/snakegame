@@ -1,1 +1,2 @@
 # snakegame
+These files contain codes for a snake game that has a menu which allows the player to choose between different colour settings, different speed levels, bounded and unbounded rules and the option to turn off the sound. The game operates as a basic snake game where the player gains points as it eats the "particle" and the snake gets longer in size. The snake may die if it gets long enough to hit itself or when it hits the wall in the 'bounded' option.
